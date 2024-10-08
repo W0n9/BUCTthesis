@@ -1,6 +1,6 @@
 {
     "name": "LaTeXspaces-prebuild",
-    "image": "ghcr.io/w0n9/images/ubuntu-latex:20240710",
+    "image": "ghcr.io/w0n9/images/ubuntu-latex:20241008",
     // "remoteUser": "vscode",
     "customizations": {
         "vscode": {
